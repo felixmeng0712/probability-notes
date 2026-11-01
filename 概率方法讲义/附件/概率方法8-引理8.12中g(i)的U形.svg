@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img"><title>引理 8.12：log_n g(i) 随公共点数 i 的变化，两端高、中间低</title><rect width="900" height="500" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs><marker id="arr333" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs><line x1="110.0" y1="430.0" x2="665.0" y2="430.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1" marker-end="url(#arr333)"/>
+<line x1="110.0" y1="430.0" x2="110.0" y2="45.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1" marker-end="url(#arr333)"/>
+<line x1="117.9" y1="430.0" x2="117.9" y2="436.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="260.3" y1="430.0" x2="260.3" y2="436.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="418.5" y1="430.0" x2="418.5" y2="436.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="640.0" y1="430.0" x2="640.0" y2="436.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="104.0" y1="60.0" x2="110.0" y2="60.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="104.0" y1="162.1" x2="110.0" y2="162.1" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="104.0" y1="264.1" x2="110.0" y2="264.1" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="104.0" y1="366.2" x2="110.0" y2="366.2" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<polyline points="117.9,95.5 125.8,113.0 133.7,130.2 141.6,146.9 149.6,163.2 157.5,179.1 165.4,194.5 173.3,209.3 181.2,223.7 189.1,237.5 197.0,250.8 204.9,263.6 212.8,275.8 220.7,287.5 228.7,298.6 236.6,309.2 244.5,319.3 252.4,328.8 260.3,337.7 268.2,346.1 276.1,353.9 284.0,361.1 291.9,367.8 299.9,374.0 307.8,379.6 315.7,384.6 323.6,389.0 331.5,392.9 339.4,396.2 347.3,399.0 355.2,401.2 363.1,402.9 371.0,403.9 379.0,404.5 386.9,404.4 394.8,403.8 402.7,402.7 410.6,401.0 418.5,398.7 426.4,395.9 434.3,392.5 442.2,388.6 450.1,384.2 458.1,379.2 466.0,373.6 473.9,367.5 481.8,360.9 489.7,353.8 497.6,346.1 505.5,337.9 513.4,329.2 521.3,320.0 529.3,310.2 537.2,300.0 545.1,289.3 553.0,278.1 560.9,266.5 568.8,254.4 576.7,241.9 584.6,228.9 592.5,215.6 600.4,202.0 608.4,188.0 616.3,173.9 624.2,159.6 632.1,145.5" fill="none" stroke="#2f6fd6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="117.9" y1="95.5" x2="640.0" y2="95.5" stroke="#e07b16" stroke-width="1.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="117.9" y1="132.0" x2="640.0" y2="132.0" stroke="#9b3fb5" stroke-width="1.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<text x="117.9" y="452.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">2</text>
+<text x="260.3" y="452.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">20</text>
+<text x="418.5" y="452.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">40</text>
+<text x="640.0" y="452.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">k</text>
+<text x="98.0" y="60.0" font-size="15" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">0</text>
+<text x="98.0" y="162.1" font-size="15" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−4</text>
+<text x="98.0" y="264.1" font-size="15" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−8</text>
+<text x="98.0" y="366.2" font-size="15" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−12</text>
+<text x="375.0" y="480.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">公共点数 i</text>
+<text x="70.0" y="24.0" font-size="16" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">log<tspan dy="4.8" font-size="11.5">n</tspan><tspan dy="-4.8">​</tspan> g(i)</text>
+<circle cx="117.9" cy="95.5" r="6" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="640.0" cy="132.0" r="6" fill="#fff" stroke="#9b3fb5" stroke-width="2"/>
+<text x="197.0" y="75.5" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">i = 2：约 k⁴/n²</text>
+<text x="481.8" y="112.0" font-size="15" fill="#9b3fb5" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">i = k 处恰为 1/μ（不计入 Δ）</text>
+<text x="670.0" y="150.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n = 10¹², k = k<tspan dy="4.5" font-size="10.8">0</tspan><tspan dy="-4.5">​</tspan> − 3 = 68</text>
+<text x="670.0" y="200.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">左端：与 μ 无关，</text>
+<text x="670.0" y="226.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">决定 Janson 指数</text>
+<text x="670.0" y="276.0" font-size="15" fill="#9b3fb5" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">右端：由 1/μ 控制，</text>
+<text x="670.0" y="302.0" font-size="15" fill="#9b3fb5" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">μ 越大越低</text>
+<text x="670.0" y="352.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">要 μ 大，才能让</text>
+<text x="670.0" y="378.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">左端占主导</text></svg>

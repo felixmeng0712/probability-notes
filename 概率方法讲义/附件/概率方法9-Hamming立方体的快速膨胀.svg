@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="470" viewBox="0 0 1060 470" role="img"><title>Hamming 立方体中一半的集合膨胀 t 后几乎占满</title><rect width="1060" height="470" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><rect x="50" y="329.999999974656" width="10.5" height="2.5343974761456173e-08" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="62" y="329.9999990876169" width="10.5" height="9.123830914124223e-07" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="74" y="329.9999840332959" width="10.5" height="1.596670409971739e-05" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="86" y="329.9998190440202" width="10.5" height="0.00018095597979679709" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="98" y="329.9985071131667" width="10.5" height="0.001492886833323576" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="110" y="329.9904455242667" width="10.5" height="0.009554475733270886" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="122" y="329.95063520871145" width="10.5" height="0.049364791288566245" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="134" y="329.7884366087633" width="10.5" height="0.21156339123671247" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="146" y="329.23308270676694" width="10.5" height="0.7669172932330828" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="158" y="327.6140350877193" width="10.5" height="2.3859649122807016" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="170" y="323.5578947368421" width="10.5" height="6.442105263157894" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="182" y="314.7732057416268" width="10.5" height="15.226794258373207" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="194" y="298.2775119617225" width="10.5" height="31.722488038277515" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="206" y="271.4354066985646" width="10.5" height="58.56459330143541" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="218" y="233.78673957621328" width="10.5" height="96.21326042378674" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="230" y="188.88721804511277" width="10.5" height="141.11278195488723" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="242" y="144.78947368421055" width="10.5" height="185.21052631578945" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="254" y="112.10526315789474" width="10.5" height="217.89473684210526" rx="0" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="266" y="100.0" width="10.5" height="230.0" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="278" y="112.10526315789474" width="10.5" height="217.89473684210526" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="290" y="144.78947368421055" width="10.5" height="185.21052631578945" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="302" y="188.88721804511277" width="10.5" height="141.11278195488723" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="314" y="233.78673957621328" width="10.5" height="96.21326042378674" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="326" y="271.4354066985646" width="10.5" height="58.56459330143541" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="338" y="298.2775119617225" width="10.5" height="31.722488038277515" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="350" y="314.7732057416268" width="10.5" height="15.226794258373207" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="362" y="323.5578947368421" width="10.5" height="6.442105263157894" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="374" y="327.6140350877193" width="10.5" height="2.3859649122807016" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="386" y="329.23308270676694" width="10.5" height="0.7669172932330828" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="398" y="329.7884366087633" width="10.5" height="0.21156339123671247" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="410" y="329.95063520871145" width="10.5" height="0.049364791288566245" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="422" y="329.9904455242667" width="10.5" height="0.009554475733270886" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="434" y="329.9985071131667" width="10.5" height="0.001492886833323576" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="446" y="329.9998190440202" width="10.5" height="0.00018095597979679709" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="458" y="329.9999840332959" width="10.5" height="1.596670409971739e-05" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="470" y="329.9999990876169" width="10.5" height="9.123830914124223e-07" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="482" y="329.999999974656" width="10.5" height="2.5343974761456173e-08" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<line x1="46.0" y1="330.0" x2="498.0" y2="330.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="56.0" y1="330.0" x2="56.0" y2="336.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="272.0" y1="330.0" x2="272.0" y2="336.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="488.0" y1="330.0" x2="488.0" y2="336.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<rect x="50" y="372" width="16" height="16" rx="2" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="50" y="398" width="16" height="16" rx="2" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="50" y="424" width="16" height="16" rx="2" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="560" y="329.999999974656" width="10.5" height="2.5343974761456173e-08" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="572" y="329.9999990876169" width="10.5" height="9.123830914124223e-07" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="584" y="329.9999840332959" width="10.5" height="1.596670409971739e-05" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="596" y="329.9998190440202" width="10.5" height="0.00018095597979679709" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="608" y="329.9985071131667" width="10.5" height="0.001492886833323576" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="620" y="329.9904455242667" width="10.5" height="0.009554475733270886" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="632" y="329.95063520871145" width="10.5" height="0.049364791288566245" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="644" y="329.7884366087633" width="10.5" height="0.21156339123671247" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="656" y="329.23308270676694" width="10.5" height="0.7669172932330828" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="668" y="327.6140350877193" width="10.5" height="2.3859649122807016" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="680" y="323.5578947368421" width="10.5" height="6.442105263157894" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="692" y="314.7732057416268" width="10.5" height="15.226794258373207" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="704" y="298.2775119617225" width="10.5" height="31.722488038277515" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="716" y="271.4354066985646" width="10.5" height="58.56459330143541" rx="0" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="728" y="233.78673957621328" width="10.5" height="96.21326042378674" rx="0" fill="#1a9aa0" stroke="none" stroke-width="1.5"/>
+<rect x="740" y="188.88721804511277" width="10.5" height="141.11278195488723" rx="0" fill="#1a9aa0" stroke="none" stroke-width="1.5"/>
+<rect x="752" y="144.78947368421055" width="10.5" height="185.21052631578945" rx="0" fill="#1a9aa0" stroke="none" stroke-width="1.5"/>
+<rect x="764" y="112.10526315789474" width="10.5" height="217.89473684210526" rx="0" fill="#1a9aa0" stroke="none" stroke-width="1.5"/>
+<rect x="776" y="100.0" width="10.5" height="230.0" rx="0" fill="#1a9aa0" stroke="none" stroke-width="1.5"/>
+<rect x="788" y="112.10526315789474" width="10.5" height="217.89473684210526" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="800" y="144.78947368421055" width="10.5" height="185.21052631578945" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="812" y="188.88721804511277" width="10.5" height="141.11278195488723" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="824" y="233.78673957621328" width="10.5" height="96.21326042378674" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="836" y="271.4354066985646" width="10.5" height="58.56459330143541" rx="0" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="848" y="298.2775119617225" width="10.5" height="31.722488038277515" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="860" y="314.7732057416268" width="10.5" height="15.226794258373207" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="872" y="323.5578947368421" width="10.5" height="6.442105263157894" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="884" y="327.6140350877193" width="10.5" height="2.3859649122807016" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="896" y="329.23308270676694" width="10.5" height="0.7669172932330828" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="908" y="329.7884366087633" width="10.5" height="0.21156339123671247" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="920" y="329.95063520871145" width="10.5" height="0.049364791288566245" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="932" y="329.9904455242667" width="10.5" height="0.009554475733270886" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="944" y="329.9985071131667" width="10.5" height="0.001492886833323576" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="956" y="329.9998190440202" width="10.5" height="0.00018095597979679709" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="968" y="329.9999840332959" width="10.5" height="1.596670409971739e-05" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="980" y="329.9999990876169" width="10.5" height="9.123830914124223e-07" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<rect x="992" y="329.999999974656" width="10.5" height="2.5343974761456173e-08" rx="0" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<line x1="556.0" y1="330.0" x2="1008.0" y2="330.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="566.0" y1="330.0" x2="566.0" y2="336.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="782.0" y1="330.0" x2="782.0" y2="336.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="998.0" y1="330.0" x2="998.0" y2="336.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<rect x="560" y="372" width="16" height="16" rx="2" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="560" y="398" width="16" height="16" rx="2" fill="#1a9aa0" stroke="none" stroke-width="1.5"/>
+<rect x="560" y="424" width="16" height="16" rx="2" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="560" y="450" width="16" height="16" rx="2" fill="#d0d0d0" stroke="none" stroke-width="1.5"/>
+<text x="56.0" y="350.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">0</text>
+<text x="272.0" y="350.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n/2</text>
+<text x="488.0" y="350.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n</text>
+<text x="272.0" y="34.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">定理 9.12：一半膨胀 t 后至少 1 − exp(−2t²/n)</text>
+<text x="272.0" y="60.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n = 36，横轴为重量，柱高为该重量的点所占比例</text>
+<text x="74.0" y="380.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">B：重量小于 n/2，占比 ≤ 1/2（本例 0.43）</text>
+<text x="74.0" y="406.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">B<tspan dy="4.2" font-size="10.1">t</tspan><tspan dy="-4.2">​</tspan> ∖ B：再膨胀 t = 5 层</text>
+<text x="74.0" y="432.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">剩下的尾巴：≤ exp(−2t²/n)（本例 0.07）</text>
+<text x="566.0" y="350.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">0</text>
+<text x="782.0" y="350.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n/2</text>
+<text x="998.0" y="350.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n</text>
+<text x="782.0" y="34.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">定理 9.13：两步膨胀，从 ε 到 1 − ε</text>
+<text x="782.0" y="60.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第一步用反证：A<tspan dy="4.2" font-size="10.1">t</tspan><tspan dy="-4.2">​</tspan> 的补集 A′ 离 A 超过 t</text>
+<text x="584.0" y="380.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">A：占比 ε（本例 0.07）</text>
+<text x="584.0" y="406.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">A<tspan dy="4.2" font-size="10.1">t</tspan><tspan dy="-4.2">​</tspan> ∖ A：膨胀 t = 5 后已过半（0.57）</text>
+<text x="584.0" y="432.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">A<tspan dy="4.2" font-size="10.1">2t</tspan><tspan dy="-4.2">​</tspan> ∖ A<tspan dy="4.2" font-size="10.1">t</tspan><tspan dy="-4.2">​</tspan>：再膨胀 t，达到 1 − ε</text>
+<text x="584.0" y="458.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">其余：离 A 超过 2t，占比 ≤ ε（0.03）</text></svg>

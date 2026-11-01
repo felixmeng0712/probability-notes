@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img"><title>先随机翻列，再按行和贪心翻行</title><rect width="1000" height="440" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><rect x="60" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="100" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="140" y="110" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="180" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="220" y="110" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="60" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="100" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="140" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="180" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="220" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="60" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="100" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="140" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="180" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="220" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="60" y="230" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="100" y="230" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="140" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="180" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="220" y="230" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="60" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="100" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="140" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="180" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="220" y="270" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="390" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="430" y="110" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="470" y="110" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="510" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="550" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="390" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="430" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="470" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="510" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="550" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="390" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="430" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="470" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="510" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="550" y="190" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="390" y="230" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="430" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="470" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="510" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="550" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="390" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="430" y="270" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="470" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="510" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="550" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="720" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="760" y="110" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="800" y="110" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="840" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="880" y="110" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="720" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="760" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="800" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="840" y="150" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="880" y="150" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="720" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="760" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="800" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="840" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="880" y="190" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="720" y="230" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="760" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="800" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="840" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="880" y="230" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="720" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="760" y="270" width="36" height="36" rx="5" fill="#fff" stroke="#d0d0d0" stroke-width="1.5"/>
+<rect x="800" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="840" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="880" y="270" width="36" height="36" rx="5" fill="#f6c56e" stroke="#e07b16" stroke-width="1.5"/>
+<text x="158.0" y="55.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">初始状态</text>
+<text x="158.0" y="340.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">亮 13，灭 12</text>
+<text x="488.0" y="55.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">随机翻列</text>
+<text x="408.0" y="88.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="448.0" y="88.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−1</text>
+<text x="488.0" y="88.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="528.0" y="88.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="568.0" y="88.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−1</text>
+<text x="612.0" y="88.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">R<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan></text>
+<text x="612.0" y="128.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="612.0" y="168.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−1</text>
+<text x="612.0" y="208.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−5</text>
+<text x="612.0" y="248.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+3</text>
+<text x="612.0" y="288.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+3</text>
+<text x="488.0" y="340.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">R<tspan dy="4.8" font-size="11.5">i</tspan><tspan dy="-4.8">​</tspan> 之和 = +1</text>
+<text x="818.0" y="55.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">按 R<tspan dy="5.1" font-size="12.2">i</tspan><tspan dy="-5.1">​</tspan> 贪心翻行</text>
+<text x="696.0" y="128.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="942.0" y="128.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="696.0" y="168.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−1</text>
+<text x="942.0" y="168.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="696.0" y="208.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">−1</text>
+<text x="942.0" y="208.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+5</text>
+<text x="696.0" y="248.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="942.0" y="248.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+3</text>
+<text x="696.0" y="288.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+1</text>
+<text x="942.0" y="288.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+3</text>
+<text x="818.0" y="340.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">∑|R<tspan dy="4.8" font-size="11.5">i</tspan><tspan dy="-4.8">​</tspan>| = 13：亮 19，灭 6</text>
+<text x="500.0" y="400.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">列上方 / 行左侧的 −1 表示翻转（蓝色）；橙色格子是亮灯</text></svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img"><title>三角形数的上尾：植入一个团，或植入若干个连向全体的中心点</title><rect width="900" height="440" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="250.4" y1="90.0" x2="342.5" y2="227.9" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="245.4" y1="91.5" x2="245.4" y2="328.5" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="241.9" y1="90.8" x2="151.2" y2="309.8" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="237.9" y1="87.5" x2="100.0" y2="179.6" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="236.4" y1="82.5" x2="203.6" y2="82.5" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="288.8" y1="110.2" x2="198.1" y2="329.2" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="283.9" y1="105.4" x2="100.8" y2="181.2" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="324.6" y1="146.1" x2="248.8" y2="329.2" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="323.1" y1="145.3" x2="199.6" y2="330.0" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="341.1" y1="241.7" x2="251.7" y2="331.1" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="283.4" y1="316.3" x2="120.7" y2="284.0" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="285.9" y1="311.7" x2="118.3" y2="144.1" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="287.2" y1="310.6" x2="152.8" y2="109.4" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="236.4" y1="337.5" x2="203.6" y2="337.5" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="239.0" y1="331.1" x2="98.9" y2="191.0" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="110.2" y1="273.4" x2="94.3" y2="193.5" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="97.5" y1="177.2" x2="142.8" y2="109.4" stroke="#d0d0d0" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="251.7" y1="88.9" x2="341.1" y2="178.3" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="248.8" y1="90.8" x2="324.6" y2="273.9" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="243.6" y1="91.3" x2="196.4" y2="328.7" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="239.0" y1="88.9" x2="98.9" y2="229.0" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="237.0" y1="85.9" x2="120.2" y2="134.3" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="345.7" y1="193.5" x2="329.8" y2="273.4" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="341.1" y1="191.0" x2="201.0" y2="331.1" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="338.7" y1="186.4" x2="101.3" y2="233.6" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="338.7" y1="182.9" x2="120.7" y2="139.5" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="319.8" y1="285.7" x2="203.0" y2="334.1" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="319.3" y1="280.5" x2="101.3" y2="237.1" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="320.6" y1="277.2" x2="119.4" y2="142.8" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="188.3" y1="331.1" x2="98.9" y2="241.7" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="191.2" y1="329.2" x2="115.4" y2="146.1" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="94.3" y1="226.5" x2="110.2" y2="146.6" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="711.7" y1="88.9" x2="801.1" y2="178.3" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="708.8" y1="90.8" x2="784.6" y2="273.9" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="707.1" y1="91.3" x2="750.5" y2="309.3" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="700.4" y1="90.0" x2="576.9" y2="274.7" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="699.0" y1="88.9" x2="558.9" y2="229.0" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="697.0" y1="85.9" x2="580.2" y2="134.3" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="696.4" y1="82.5" x2="663.6" y2="82.5" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="748.8" y1="110.2" x2="658.1" y2="329.2" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="743.4" y1="103.7" x2="580.7" y2="136.0" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="743.2" y1="101.9" x2="616.8" y2="101.9" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="786.3" y1="146.6" x2="754.0" y2="309.3" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="779.8" y1="141.2" x2="560.8" y2="231.9" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="798.7" y1="237.1" x2="580.7" y2="280.5" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="798.5" y1="235.4" x2="561.5" y2="235.4" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="744.7" y1="313.1" x2="560.0" y2="189.6" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="651.2" y1="329.2" x2="575.4" y2="146.1" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="571.9" y1="273.2" x2="571.9" y2="146.8" stroke="#9a9a9a" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="682.9" y1="195.3" x2="703.6" y2="91.3" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="688.3" y1="197.5" x2="747.2" y2="109.4" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="692.5" y1="201.7" x2="780.6" y2="142.8" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="694.7" y1="207.1" x2="798.7" y2="186.4" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="694.7" y1="212.9" x2="798.7" y2="233.6" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="692.5" y1="218.3" x2="780.6" y2="277.2" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="688.3" y1="222.5" x2="747.2" y2="310.6" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="682.9" y1="224.7" x2="703.6" y2="328.7" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="677.1" y1="224.7" x2="656.4" y2="328.7" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="671.7" y1="222.5" x2="612.8" y2="310.6" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="667.5" y1="218.3" x2="579.4" y2="277.2" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="665.3" y1="212.9" x2="561.3" y2="233.6" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="665.3" y1="207.1" x2="561.3" y2="186.4" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="667.5" y1="201.7" x2="579.4" y2="142.8" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="671.7" y1="197.5" x2="612.8" y2="109.4" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<line x1="677.1" y1="195.3" x2="656.4" y2="91.3" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+<circle cx="245.4" cy="82.5" r="7" fill="#f4a35c" stroke="#e07b16" stroke-width="2"/>
+<circle cx="292.2" cy="101.9" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="328.1" cy="137.8" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="347.5" cy="184.6" r="7" fill="#f4a35c" stroke="#e07b16" stroke-width="2"/>
+<circle cx="347.5" cy="235.4" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="328.1" cy="282.2" r="7" fill="#f4a35c" stroke="#e07b16" stroke-width="2"/>
+<circle cx="292.2" cy="318.1" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="245.4" cy="337.5" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="194.6" cy="337.5" r="7" fill="#f4a35c" stroke="#e07b16" stroke-width="2"/>
+<circle cx="147.8" cy="318.1" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="111.9" cy="282.2" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="92.5" cy="235.4" r="7" fill="#f4a35c" stroke="#e07b16" stroke-width="2"/>
+<circle cx="92.5" cy="184.6" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="111.9" cy="137.8" r="7" fill="#f4a35c" stroke="#e07b16" stroke-width="2"/>
+<circle cx="147.8" cy="101.9" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="194.6" cy="82.5" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<text x="220.0" y="372.0" font-size="16" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">植入团：s ≈ ∛δ · np 个点</text>
+<text x="220.0" y="402.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">约 s²/2 条边必须出现，多出约 s³/6 个三角形</text>
+<circle cx="705.4" cy="82.5" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="752.2" cy="101.9" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="788.1" cy="137.8" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="807.5" cy="184.6" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="807.5" cy="235.4" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="788.1" cy="282.2" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="752.2" cy="318.1" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="705.4" cy="337.5" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="654.6" cy="337.5" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="607.8" cy="318.1" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="571.9" cy="282.2" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="552.5" cy="235.4" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="552.5" cy="184.6" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="571.9" cy="137.8" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="607.8" cy="101.9" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="654.6" cy="82.5" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="680.0" cy="210.0" r="11" fill="#9cc0f2" stroke="#2f6fd6" stroke-width="2"/>
+<text x="680.0" y="372.0" font-size="16" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">中心点：h ≈ δnp²/3 个，各连向全体</text>
+<text x="680.0" y="402.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">约 hn 条边必须出现，每条边都多一个三角形</text></svg>

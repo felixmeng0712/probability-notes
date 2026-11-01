@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="440" viewBox="0 0 820 440" role="img"><title>六角排列的单位圆盘与基本平行四边形</title><rect width="820" height="440" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><circle cx="70.0" cy="70.0" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="146.0" cy="70.0" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="222.0" cy="70.0" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="298.0" cy="70.0" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="374.0" cy="70.0" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="450.0" cy="70.0" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="108.0" cy="135.8" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="184.0" cy="135.8" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="260.0" cy="135.8" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="336.0" cy="135.8" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="412.0" cy="135.8" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="488.0" cy="135.8" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="70.0" cy="201.6" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="146.0" cy="201.6" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="222.0" cy="201.6" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="298.0" cy="201.6" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="374.0" cy="201.6" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="450.0" cy="201.6" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="108.0" cy="267.5" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="184.0" cy="267.5" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="260.0" cy="267.5" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="336.0" cy="267.5" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="412.0" cy="267.5" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="488.0" cy="267.5" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="70.0" cy="333.3" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="146.0" cy="333.3" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="222.0" cy="333.3" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="298.0" cy="333.3" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="374.0" cy="333.3" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="450.0" cy="333.3" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="108.0" cy="399.1" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="184.0" cy="399.1" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="260.0" cy="399.1" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="336.0" cy="399.1" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="412.0" cy="399.1" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<circle cx="488.0" cy="399.1" r="38" stroke="#9a9a9a" stroke-width="1.2" fill="#eef2f7"/>
+<clipPath id="fund"><polygon points="184.0,135.8 260.0,135.8 298.0,201.6 222.0,201.6"/></clipPath>
+<polygon points="184.0,135.8 260.0,135.8 298.0,201.6 222.0,201.6" fill="#a8a8a8" fill-opacity="1" stroke="none"/>
+<circle cx="184.0" cy="135.8" r="38" fill="#e07b16" fill-opacity="0.85" clip-path="url(#fund)"/>
+<circle cx="260.0" cy="135.8" r="38" fill="#e07b16" fill-opacity="0.85" clip-path="url(#fund)"/>
+<circle cx="298.0" cy="201.6" r="38" fill="#e07b16" fill-opacity="0.85" clip-path="url(#fund)"/>
+<circle cx="222.0" cy="201.6" r="38" fill="#e07b16" fill-opacity="0.85" clip-path="url(#fund)"/>
+<line x1="184.0" y1="135.8" x2="260.0" y2="135.8" stroke="#333" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="260.0" y1="135.8" x2="298.0" y2="201.6" stroke="#333" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="298.0" y1="201.6" x2="222.0" y2="201.6" stroke="#333" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="222.0" y1="201.6" x2="184.0" y2="135.8" stroke="#333" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<text x="680.0" y="70.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">黑边平行四边形：基本区域</text>
+<text x="680.0" y="98.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">面积 2√3（半径取 1）</text>
+<text x="680.0" y="150.0" font-size="16" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">橙色：其中被圆盘盖住的部分</text>
+<text x="680.0" y="178.0" font-size="16" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">四个角拼起来恰是一个圆盘</text>
+<text x="680.0" y="230.0" font-size="16" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">灰色：两块盖不住的空隙</text>
+<text x="680.0" y="290.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">覆盖比例 π/(2√3) ≈ 0.907</text>
+<text x="680.0" y="340.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">随机平移后，每个点</text>
+<text x="680.0" y="368.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">以这个概率被盖住</text></svg>

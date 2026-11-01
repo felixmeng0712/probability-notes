@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="480" viewBox="0 0 880 480" role="img"><title>K_5 细分：点对或直接相连，或经由 S 外的顶点</title><rect width="880" height="480" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><circle cx="290.0" cy="250.0" r="160" stroke="#2f6fd6" stroke-width="1.5" fill="#eaf1fc" stroke-dasharray="6 5"/>
+<line x1="295.3" y1="146.2" x2="355.3" y2="330.9" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="284.7" y1="146.2" x2="224.7" y2="330.9" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="276.2" y1="140.0" x2="189.6" y2="202.9" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="398.9" y1="229.1" x2="365.8" y2="330.9" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="390.4" y1="222.9" x2="233.2" y2="337.1" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="387.1" y1="212.9" x2="192.9" y2="212.9" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="346.8" y1="337.1" x2="189.6" y2="222.9" stroke="#2f6fd6" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="306.2" y1="124.9" x2="394.3" y2="97.3" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="403.0" y1="103.6" x2="404.0" y2="195.9" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="353.9" y1="362.7" x2="323.5" y2="433.8" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="311.0" y1="442.1" x2="269.0" y2="442.1" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="256.5" y1="433.8" x2="226.1" y2="362.7" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="203.4" y1="341.7" x2="115.8" y2="312.2" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="112.5" y1="302.0" x2="166.0" y2="226.8" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="545.0" y1="230.0" x2="575.0" y2="230.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="545.0" y1="268.0" x2="575.0" y2="268.0" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="402.9" cy="94.6" r="8" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="320.0" cy="442.1" r="8" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="260.0" cy="442.1" r="8" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="107.3" cy="309.4" r="8" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="290.0" cy="130.0" r="17" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="290.0" y="130.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central">s<tspan dy="4.2" font-size="10.1">1</tspan><tspan dy="-4.2">​</tspan></text>
+<circle cx="404.1" cy="212.9" r="17" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="404.1" y="212.9" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central">s<tspan dy="4.2" font-size="10.1">2</tspan><tspan dy="-4.2">​</tspan></text>
+<circle cx="360.5" cy="347.1" r="17" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="360.5" y="347.1" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central">s<tspan dy="4.2" font-size="10.1">3</tspan><tspan dy="-4.2">​</tspan></text>
+<circle cx="219.5" cy="347.1" r="17" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="219.5" y="347.1" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central">s<tspan dy="4.2" font-size="10.1">4</tspan><tspan dy="-4.2">​</tspan></text>
+<circle cx="175.9" cy="212.9" r="17" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="175.9" y="212.9" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central">s<tspan dy="4.2" font-size="10.1">5</tspan><tspan dy="-4.2">​</tspan></text>
+<circle cx="575.0" cy="105.0" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="610.0" cy="135.0" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="585.0" cy="165.0" r="7" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<text x="290.0" y="30.0" font-size="15" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">虚线圈内：t 个分支点组成的集合 S</text>
+<text x="585.0" y="230.0" font-size="15" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">直接相连：S 内的边</text>
+<text x="585.0" y="268.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">经过 S 外顶点的路</text>
+<text x="545.0" y="316.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">不同的路内部不相交，每条至少</text>
+<text x="545.0" y="342.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">占用一个 S 外的顶点，所以这样</text>
+<text x="545.0" y="368.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">的点对少于 n 个：</text>
+<text x="545.0" y="400.0" font-size="16" fill="#333" text-anchor="start" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">e(S) ≥ C(t,2) − n</text>
+<text x="620.0" y="75.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">S 外未用到的顶点</text></svg>

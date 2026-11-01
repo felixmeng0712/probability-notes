@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img"><title>从 y 的最优路线出发，沿 σ-路线中与新点相关联的边绕道</title><rect width="900" height="500" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><polyline points="120.0,260.0 210.0,120.0 380.0,90.0 470.0,100.0 540.0,130.0 640.0,250.0 560.0,400.0 380.0,430.0 300.0,420.0 220.0,390.0 120.0,260.0" fill="none" stroke="#333" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="216.6" y1="126.1" x2="323.4" y2="223.9" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="339.0" y1="230.0" x2="441.0" y2="230.0" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="459.0" y1="230.9" x2="631.0" y2="249.1" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="560.0" y1="391.0" x2="560.0" y2="309.0" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="567.6" y1="295.2" x2="632.4" y2="254.8" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="696.0" y1="240.0" x2="726.0" y2="240.0" stroke="#333" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="696.0" y1="280.0" x2="726.0" y2="280.0" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="120.0" cy="260.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="210.0" cy="120.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="380.0" cy="90.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="540.0" cy="130.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="640.0" cy="250.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="560.0" cy="400.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="380.0" cy="430.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="220.0" cy="390.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="470.0" cy="100.0" r="8" fill="#fff" stroke="#9a9a9a" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="300.0" cy="420.0" r="8" fill="#fff" stroke="#9a9a9a" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="330.0" cy="230.0" r="8" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="450.0" cy="230.0" r="8" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="560.0" cy="300.0" r="8" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<text x="330.0" y="200.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">新点</text>
+<text x="450.0" y="200.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">新点</text>
+<text x="542.0" y="300.0" font-size="15" fill="#d43c3c" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">新点</text>
+<text x="235.0" y="210.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">去、回各一次</text>
+<circle cx="710.0" cy="110.0" r="8" fill="#333" stroke="#333" stroke-width="2"/>
+<text x="730.0" y="110.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">旧点（x<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan> = y<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan>）</text>
+<circle cx="710.0" cy="150.0" r="8" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<text x="730.0" y="150.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">新点（x<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan> ≠ y<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan>）</text>
+<circle cx="710.0" cy="190.0" r="8" fill="#fff" stroke="#9a9a9a" stroke-width="2" stroke-dasharray="3 2"/>
+<text x="730.0" y="190.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">y 中被换掉的点</text>
+<text x="734.0" y="240.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">y 的最优路线</text>
+<text x="734.0" y="280.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">σ-路线中</text>
+<text x="734.0" y="304.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">与新点相关联的边</text>
+<text x="696.0" y="360.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">增加的长度 ≤ 2 × 橙色边总长</text>
+<text x="696.0" y="386.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">≤ 新点的 α<tspan dy="4.2" font-size="10.1">i</tspan><tspan dy="-4.2">​</tspan> 之和</text></svg>

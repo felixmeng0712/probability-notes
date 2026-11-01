@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img"><title>H = K4 加一条悬挂边；两份拷贝共用 K4</title><rect width="900" height="400" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="127.0" y1="112.0" x2="213.0" y2="112.0" stroke="#333" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="122.6" y1="122.6" x2="217.4" y2="217.4" stroke="#333" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="112.0" y1="127.0" x2="112.0" y2="213.0" stroke="#333" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="228.0" y1="127.0" x2="228.0" y2="213.0" stroke="#333" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="217.4" y1="122.6" x2="122.6" y2="217.4" stroke="#333" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="213.0" y1="228.0" x2="127.0" y2="228.0" stroke="#333" stroke-width="2.6" stroke-linecap="round" opacity="1"/>
+<line x1="243.0" y1="112.0" x2="315.0" y2="112.0" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="557.0" y1="132.0" x2="643.0" y2="132.0" stroke="#9b3fb5" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="552.6" y1="142.6" x2="647.4" y2="237.4" stroke="#9b3fb5" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="542.0" y1="147.0" x2="542.0" y2="233.0" stroke="#9b3fb5" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="658.0" y1="147.0" x2="658.0" y2="233.0" stroke="#9b3fb5" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="647.4" y1="142.6" x2="552.6" y2="237.4" stroke="#9b3fb5" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="643.0" y1="248.0" x2="557.0" y2="248.0" stroke="#9b3fb5" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="672.9" y1="130.2" x2="745.1" y2="121.8" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="672.9" y1="249.8" x2="745.1" y2="258.2" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="7 5"/>
+<circle cx="112.0" cy="112.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="112.0" y="112.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">a</text>
+<circle cx="228.0" cy="112.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="228.0" y="112.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">b</text>
+<circle cx="228.0" cy="228.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="228.0" y="228.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">c</text>
+<circle cx="112.0" cy="228.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="112.0" y="228.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">d</text>
+<circle cx="330.0" cy="112.0" r="15" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="330.0" y="112.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">w</text>
+<text x="210.0" y="290.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">H：5 个点、7 条边</text>
+<text x="210.0" y="318.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">最稠密的部分是 K<tspan dy="4.5" font-size="10.8">4</tspan><tspan dy="-4.5">​</tspan>（边点比 3/2 > 7/5）</text>
+<circle cx="542.0" cy="132.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="542.0" y="132.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">a</text>
+<circle cx="658.0" cy="132.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="658.0" y="132.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">b</text>
+<circle cx="658.0" cy="248.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="658.0" y="248.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">c</text>
+<circle cx="542.0" cy="248.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="542.0" y="248.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">d</text>
+<circle cx="760.0" cy="120.0" r="15" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="760.0" y="120.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">w</text>
+<circle cx="760.0" cy="260.0" r="15" fill="#fff" stroke="#e07b16" stroke-width="2"/>
+<text x="760.0" y="260.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">w′</text>
+<text x="600.0" y="40.0" font-size="16" fill="#9b3fb5" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">J 与 J′ 共用整个 K<tspan dy="4.8" font-size="11.5">4</tspan><tspan dy="-4.8">​</tspan>（紫）</text>
+<text x="640.0" y="330.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">J′ 与 J 只差一个点、一条边：</text>
+<text x="640.0" y="358.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">这样的 J′ 约有 n 个，各自条件概率为 p</text></svg>

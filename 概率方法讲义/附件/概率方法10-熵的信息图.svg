@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" role="img"><title>熵的信息图：H(X)、H(Y)、条件熵与互信息</title><rect width="760" height="400" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><circle cx="300.0" cy="200.0" r="130" fill="#2f6fd6" fill-opacity="0.16" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="460.0" cy="200.0" r="130" fill="#e07b16" fill-opacity="0.16" stroke="#e07b16" stroke-width="2"/>
+<line x1="170.0" y1="352.0" x2="590.0" y2="352.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="170.0" y1="344.0" x2="170.0" y2="360.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="590.0" y1="344.0" x2="590.0" y2="360.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<text x="215.0" y="50.0" font-size="20" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">H(X)</text>
+<text x="545.0" y="50.0" font-size="20" fill="#e07b16" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">H(Y)</text>
+<text x="235.0" y="200.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">H(X | Y)</text>
+<text x="380.0" y="200.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">I(X;Y)</text>
+<text x="525.0" y="200.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">H(Y | X)</text>
+<text x="380.0" y="378.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">并集：H(X,Y) = H(X) + H(Y | X) = H(Y) + H(X | Y)</text></svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img"><title>等腰直角三角形沿高分割，子路线在直角顶点处抄近路拼接；正方形沿对角线分成两个三角形</title><rect width="980" height="560" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><polygon points="50.0,420.0 250.0,220.0 250.0,420.0" fill="#2f6fd6" fill-opacity="0.1" stroke="none"/>
+<polygon points="250.0,220.0 450.0,420.0 250.0,420.0" fill="#e07b16" fill-opacity="0.12" stroke="none"/>
+<line x1="61.3" y1="408.7" x2="238.7" y2="231.3" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="261.3" y1="231.3" x2="438.7" y2="408.7" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="66.0" y1="420.0" x2="234.0" y2="420.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="266.0" y1="420.0" x2="434.0" y2="420.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="250.0" y1="236.0" x2="250.0" y2="404.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="6 5"/>
+<line x1="65.5" y1="416.1" x2="102.2" y2="406.9" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="117.9" y1="403.7" x2="192.1" y2="391.3" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="198.3" y1="382.2" x2="186.7" y2="327.8" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="191.2" y1="315.0" x2="225.8" y2="287.0" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="276.7" y1="276.5" x2="325.3" y2="343.5" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="325.9" y1="356.9" x2="304.1" y2="393.1" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="308.0" y1="399.8" x2="392.0" y2="398.2" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="407.3" y1="401.2" x2="435.4" y2="413.6" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="234.2" y1="274.3" x2="245.5" y2="235.4" stroke="#2f6fd6" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="256.4" y1="234.6" x2="268.8" y2="262.7" stroke="#e07b16" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="239.7" y1="279.7" x2="264.3" y2="272.3" stroke="#2a9d4b" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<polygon points="560.0,440.0 900.0,440.0 900.0,100.0" fill="#2f6fd6" fill-opacity="0.1" stroke="none"/>
+<polygon points="560.0,440.0 560.0,100.0 900.0,100.0" fill="#e07b16" fill-opacity="0.12" stroke="none"/>
+<line x1="900.0" y1="440.0" x2="900.0" y2="116.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="576.0" y1="440.0" x2="900.0" y2="440.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="560.0" y1="424.0" x2="560.0" y2="100.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="560.0" y1="100.0" x2="884.0" y2="100.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="571.3" y1="428.7" x2="888.7" y2="111.3" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="6 5"/>
+<line x1="647.9" y1="418.7" x2="752.1" y2="401.3" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="756.0" y1="393.1" x2="724.0" y2="336.9" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="727.8" y1="328.2" x2="842.2" y2="301.8" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="851.8" y1="292.2" x2="878.2" y2="177.8" stroke="#2f6fd6" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="834.7" y1="121.0" x2="765.3" y2="199.0" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="753.3" y1="200.7" x2="696.7" y2="164.3" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="684.7" y1="166.0" x2="615.3" y2="244.0" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="608.5" y1="257.9" x2="586.5" y2="372.1" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="575.5" y1="436.1" x2="632.2" y2="421.9" stroke="#2f6fd6" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="882.2" y1="162.3" x2="895.6" y2="115.4" stroke="#2f6fd6" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="884.5" y1="103.9" x2="847.8" y2="113.1" stroke="#e07b16" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="581.9" y1="387.4" x2="566.2" y2="425.2" stroke="#e07b16" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="875.3" y1="163.5" x2="844.7" y2="121.5" stroke="#2a9d4b" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="591.5" y1="384.7" x2="633.5" y2="415.3" stroke="#2a9d4b" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="40.0" y1="510.0" x2="68.0" y2="510.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="177.0" y1="510.0" x2="205.0" y2="510.0" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="314.0" y1="510.0" x2="342.0" y2="510.0" stroke="#2a9d4b" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="458.0" y1="510.0" x2="486.0" y2="510.0" stroke="#333" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<circle cx="110.0" cy="405.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="200.0" cy="390.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="185.0" cy="320.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="232.0" cy="282.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="272.0" cy="270.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="330.0" cy="350.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="300.0" cy="400.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="400.0" cy="398.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="50.0" cy="420.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="50.0" y="420.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">A</text>
+<circle cx="450.0" cy="420.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="450.0" y="420.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">B</text>
+<circle cx="250.0" cy="220.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="250.0" y="220.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">C</text>
+<circle cx="250.0" cy="420.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="250.0" y="420.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">D</text>
+<text x="214.0" y="270.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-style="italic" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">p</text>
+<text x="266.0" y="296.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-style="italic" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">q</text>
+<text x="250.0" y="182.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">∠pCq ≤ 90°</text>
+<text x="150.0" y="448.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">T<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan>（斜边 AC）</text>
+<text x="350.0" y="448.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">T<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan>（斜边 CB）</text>
+<text x="250.0" y="40.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">一次分割：|AC|² + |CB|² = |AB|²</text>
+<circle cx="640.0" cy="420.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="760.0" cy="400.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="720.0" cy="330.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="850.0" cy="300.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="880.0" cy="170.0" r="7" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="840.0" cy="115.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="760.0" cy="205.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="690.0" cy="160.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="610.0" cy="250.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="585.0" cy="380.0" r="7" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="560.0" cy="440.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="560.0" y="440.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">A</text>
+<circle cx="900.0" cy="100.0" r="15" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="900.0" y="100.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">B</text>
+<text x="845.0" y="418.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">T<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan></text>
+<text x="620.0" y="135.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">T<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan></text>
+<text x="730.0" y="40.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">正方形：两条路线在 A、B 处拼接</text>
+<text x="76.0" y="510.0" font-size="14" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">T<tspan dy="4.2" font-size="10.1">1</tspan><tspan dy="-4.2">​</tspan> 中的路线</text>
+<text x="213.0" y="510.0" font-size="14" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">T<tspan dy="4.2" font-size="10.1">2</tspan><tspan dy="-4.2">​</tspan> 中的路线</text>
+<text x="350.0" y="510.0" font-size="14" fill="#2a9d4b" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">抄近路的新边</text>
+<text x="494.0" y="510.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">被换掉的边（经过直角顶点或 A、B）</text></svg>

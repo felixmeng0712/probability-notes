@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img"><title>容器的迭代：偏大的容器继续分裂，叶子都不偏大</title><rect width="1000" height="470" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="330.0" y1="94.0" x2="130.0" y2="166.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="94.0" x2="330.0" y2="166.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="94.0" x2="530.0" y2="166.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="130.0" y1="204.0" x2="60.0" y2="276.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="130.0" y1="204.0" x2="200.0" y2="276.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="530.0" y1="204.0" x2="460.0" y2="276.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="530.0" y1="204.0" x2="600.0" y2="276.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="200.0" y1="314.0" x2="140.0" y2="386.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="200.0" y1="314.0" x2="260.0" y2="386.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<rect x="282.0" y="56.0" width="96" height="38" rx="10" fill="#fde3c7" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="82.0" y="166.0" width="96" height="38" rx="10" fill="#fde3c7" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="282.0" y="166.0" width="96" height="38" rx="10" fill="#dff2e4" stroke="#2a9d4b" stroke-width="1.5"/>
+<rect x="482.0" y="166.0" width="96" height="38" rx="10" fill="#fde3c7" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="12.0" y="276.0" width="96" height="38" rx="10" fill="#dff2e4" stroke="#2a9d4b" stroke-width="1.5"/>
+<rect x="152.0" y="276.0" width="96" height="38" rx="10" fill="#fde3c7" stroke="#e07b16" stroke-width="1.5"/>
+<rect x="412.0" y="276.0" width="96" height="38" rx="10" fill="#dff2e4" stroke="#2a9d4b" stroke-width="1.5"/>
+<rect x="552.0" y="276.0" width="96" height="38" rx="10" fill="#dff2e4" stroke="#2a9d4b" stroke-width="1.5"/>
+<rect x="92.0" y="386.0" width="96" height="38" rx="10" fill="#dff2e4" stroke="#2a9d4b" stroke-width="1.5"/>
+<rect x="212.0" y="386.0" width="96" height="38" rx="10" fill="#dff2e4" stroke="#2a9d4b" stroke-width="1.5"/>
+<text x="330.0" y="75.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" font-weight="bold">V</text>
+<text x="130.0" y="185.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" font-weight="bold">偏大</text>
+<text x="330.0" y="185.0" font-size="15" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central" font-weight="bold">不偏大</text>
+<text x="530.0" y="185.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" font-weight="bold">偏大</text>
+<text x="60.0" y="295.0" font-size="15" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central" font-weight="bold">不偏大</text>
+<text x="200.0" y="295.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" font-weight="bold">偏大</text>
+<text x="460.0" y="295.0" font-size="15" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central" font-weight="bold">不偏大</text>
+<text x="600.0" y="295.0" font-size="15" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central" font-weight="bold">不偏大</text>
+<text x="140.0" y="405.0" font-size="15" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central" font-weight="bold">不偏大</text>
+<text x="260.0" y="405.0" font-size="15" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central" font-weight="bold">不偏大</text>
+<text x="690.0" y="120.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">灰线：一组指纹（图容器引理一次）</text>
+<text x="690.0" y="160.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">橙：偏大的容器，继续对它用一次</text>
+<text x="690.0" y="200.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">容器引理，分裂成更小的容器</text>
+<text x="690.0" y="240.0" font-size="15" fill="#2a9d4b" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">绿：不偏大，停止（叶子）</text>
+<text x="690.0" y="280.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每分裂一次，大小至少乘以 1 − ε/4</text>
+<text x="690.0" y="320.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">深度 ≤ r：(1 − ε/4) 的 r 次方 ≤ 1/2</text>
+<text x="690.0" y="360.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">容器总数 ≤ 每次指纹个数的 r 次方</text></svg>

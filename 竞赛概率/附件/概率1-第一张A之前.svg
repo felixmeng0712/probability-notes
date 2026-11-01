@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="250" viewBox="0 0 940 250" role="img"><title>四张 A 把其余牌分成五段</title><rect width="940" height="250" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="52.0" y1="136.0" x2="52.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="52.0" y1="144.0" x2="184.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="184.0" y1="144.0" x2="184.0" y2="136.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="278.0" y1="136.0" x2="278.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="278.0" y1="144.0" x2="310.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="310.0" y1="144.0" x2="310.0" y2="136.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="404.0" y1="136.0" x2="404.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="404.0" y1="144.0" x2="586.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="586.0" y1="144.0" x2="586.0" y2="136.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="756.0" y1="136.0" x2="756.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="756.0" y1="144.0" x2="838.0" y2="144.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="838.0" y1="144.0" x2="838.0" y2="136.0" stroke="#2f6fd6" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<circle cx="60.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="110.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="160.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="220.0" cy="110.0" r="18" fill="#d43c3c22" stroke="#d43c3c" stroke-width="2"/>
+<text x="220.0" y="110.0" font-size="16" fill="#d43c3c" text-anchor="middle" dominant-baseline="central">A</text>
+<circle cx="286.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="346.0" cy="110.0" r="18" fill="#d43c3c22" stroke="#d43c3c" stroke-width="2"/>
+<text x="346.0" y="110.0" font-size="16" fill="#d43c3c" text-anchor="middle" dominant-baseline="central">A</text>
+<circle cx="412.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="462.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="512.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="562.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="622.0" cy="110.0" r="18" fill="#d43c3c22" stroke="#d43c3c" stroke-width="2"/>
+<text x="622.0" y="110.0" font-size="16" fill="#d43c3c" text-anchor="middle" dominant-baseline="central">A</text>
+<circle cx="698.0" cy="110.0" r="18" fill="#d43c3c22" stroke="#d43c3c" stroke-width="2"/>
+<text x="698.0" y="110.0" font-size="16" fill="#d43c3c" text-anchor="middle" dominant-baseline="central">A</text>
+<circle cx="764.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="814.0" cy="110.0" r="8" fill="#ddd" stroke="#9a9a9a" stroke-width="2"/>
+<text x="118.0" y="166.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 1 段</text>
+<text x="294.0" y="166.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 2 段</text>
+<text x="495.0" y="166.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 3 段</text>
+<text x="672.0" y="166.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 4 段：0 张</text>
+<text x="797.0" y="166.0" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 5 段</text>
+<text x="470.0" y="30.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">洗匀的牌：灰点是非 A 牌（只画了 10 张），4 张 A 把它们分成 5 段</text>
+<text x="470.0" y="215.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每张非 A 牌落在 5 段中哪一段，概率都是 1/5 ⇒ 第 1 段期望 48/5 张</text></svg>

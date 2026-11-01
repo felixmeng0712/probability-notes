@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img"><title>离散点集之间的缝隙被凸包填平</title><rect width="900" height="470" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs><marker id="arr2f6fd6" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f6fd6"/></marker><marker id="arr333" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker><marker id="arre07b16" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e07b16"/></marker></defs><polygon points="70.0,70.0 320.0,70.0 320.0,370.0 70.0,370.0" fill="#e07b16" fill-opacity="0.16" stroke="none"/>
+<line x1="320.0" y1="70.0" x2="320.0" y2="370.0" stroke="#e07b16" stroke-width="2.4" stroke-linecap="round" opacity="1" stroke-dasharray="7 5"/>
+<line x1="70.0" y1="390.0" x2="630.0" y2="390.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1" marker-end="url(#arr333)"/>
+<line x1="320.0" y1="384.0" x2="320.0" y2="396.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="500.0" y1="384.0" x2="500.0" y2="396.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="486.1" y1="207.9" x2="309.6" y2="308.2" stroke="#2f6fd6" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 4" marker-end="url(#arr2f6fd6)"/>
+<line x1="484.0" y1="200.0" x2="323.0" y2="200.0" stroke="#e07b16" stroke-width="2.6" stroke-linecap="round" opacity="1" marker-end="url(#arre07b16)"/>
+<text x="620.0" y="440.0" font-size="14" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">坐标和 Σz<tspan dy="4.2" font-size="10.1">i</tspan><tspan dy="-4.2">​</tspan> 的方向</text>
+<text x="314.0" y="414.0" font-size="14" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">h ≈ n/2 − √n</text>
+<text x="500.0" y="414.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n/2</text>
+<circle cx="145.7" cy="231.5" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="228.3" cy="107.0" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="97.8" cy="307.7" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="150.2" cy="150.9" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="230.2" cy="315.7" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="159.2" cy="98.1" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="179.1" cy="298.2" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="189.7" cy="333.3" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="277.4" cy="347.7" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="182.4" cy="129.2" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="280.9" cy="101.5" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="137.0" cy="196.1" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="193.1" cy="225.2" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="99.3" cy="250.1" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="99.7" cy="105.7" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="166.7" cy="259.1" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="266.8" cy="308.0" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="148.8" cy="314.0" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="105.6" cy="160.6" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="302.6" cy="312.2" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="186.9" cy="186.8" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="125.6" cy="347.7" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="500.0" cy="200.0" r="14" fill="#fff" stroke="#d43c3c" stroke-width="2"/>
+<text x="500.0" y="200.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central">y</text>
+<text x="410.0" y="180.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">到凸包：常数</text>
+<text x="431.3" y="290.1" font-size="14" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">到 A 中的点：≥ n^(1/4)</text>
+<text x="195.0" y="46.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">conv A：Σz<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan> ≤ h</text>
+<circle cx="668.0" cy="120.0" r="5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<text x="682.0" y="120.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">A 中的点</text>
+<text x="682.0" y="142.0" font-size="13" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">（重量 ≤ h 的 0/1 向量）</text>
+<circle cx="668.0" cy="180.0" r="6" fill="#fff" stroke="#d43c3c" stroke-width="2"/>
+<text x="682.0" y="180.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">重量为 n/2 的点 y</text>
+<text x="660.0" y="240.0" font-size="13" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">示意图：横向是全 1 向量</text>
+<text x="660.0" y="262.0" font-size="13" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">的方向，纵向代表其余</text>
+<text x="660.0" y="284.0" font-size="13" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n − 1 个方向</text></svg>

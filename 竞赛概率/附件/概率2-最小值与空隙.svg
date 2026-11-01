@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img"><title>随机 k 元子集的空隙</title><rect width="960" height="250" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="22.0" y1="142.0" x2="22.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="22.0" y1="150.0" x2="130.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="130.0" y1="150.0" x2="130.0" y2="142.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="310.0" y1="142.0" x2="310.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="310.0" y1="150.0" x2="490.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="490.0" y1="150.0" x2="490.0" y2="142.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="598.0" y1="142.0" x2="598.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="598.0" y1="150.0" x2="706.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="706.0" y1="150.0" x2="706.0" y2="142.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="814.0" y1="142.0" x2="814.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="814.0" y1="150.0" x2="850.0" y2="150.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="850.0" y1="150.0" x2="850.0" y2="142.0" stroke="#e07b16" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<circle cx="40.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="40.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">1</text>
+<circle cx="112.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="112.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">2</text>
+<circle cx="184.0" cy="110.0" r="17" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<text x="184.0" y="110.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">3</text>
+<circle cx="256.0" cy="110.0" r="17" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<text x="256.0" y="110.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">4</text>
+<circle cx="328.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="328.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">5</text>
+<circle cx="400.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="400.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">6</text>
+<circle cx="472.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="472.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">7</text>
+<circle cx="544.0" cy="110.0" r="17" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<text x="544.0" y="110.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">8</text>
+<circle cx="616.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="616.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">9</text>
+<circle cx="688.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="688.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">10</text>
+<circle cx="760.0" cy="110.0" r="17" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<text x="760.0" y="110.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">11</text>
+<circle cx="832.0" cy="110.0" r="17" fill="#fff" stroke="#d0d0d0" stroke-width="2"/>
+<text x="832.0" y="110.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">12</text>
+<text x="76.0" y="172.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 0 段：2</text>
+<text x="220.0" y="66.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 1 段：0</text>
+<text x="400.0" y="172.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 2 段：3</text>
+<text x="652.0" y="172.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 3 段：2</text>
+<text x="832.0" y="172.0" font-size="14" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 4 段：1</text>
+<text x="480.0" y="30.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n = 12，选中 k = 4 个（蓝色），8 个未选的数被分成 5 段</text>
+<text x="480.0" y="220.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">最小值 = 第 0 段长度 + 1；各段长度对称 ⇒ 每段期望 (n−k)/(k+1)</text></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img"><title>色数上界：反复取出 k 元独立集作为一个颜色类，最后剩下的不到 m 个点各用新颜色</title><rect width="900" height="250" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><rect x="60" y="50" width="66" height="46" rx="6" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="130" y="50" width="66" height="46" rx="6" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="200" y="50" width="66" height="46" rx="6" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="270" y="50" width="66" height="46" rx="6" fill="#9b3fb5" stroke="none" stroke-width="1.5"/>
+<rect x="340" y="50" width="66" height="46" rx="6" fill="#2f6fd6" stroke="none" stroke-width="1.5"/>
+<rect x="410" y="50" width="66" height="46" rx="6" fill="#e07b16" stroke="none" stroke-width="1.5"/>
+<rect x="480" y="50" width="66" height="46" rx="6" fill="#2a9d4b" stroke="none" stroke-width="1.5"/>
+<rect x="550" y="50" width="66" height="46" rx="6" fill="#9b3fb5" stroke="none" stroke-width="1.5"/>
+<rect x="620" y="50" width="220" height="46" rx="6" fill="#f1f1f1" stroke="#9a9a9a" stroke-width="1.2"/>
+<text x="93.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">色 1</text>
+<text x="163.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">色 2</text>
+<text x="233.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">色 3</text>
+<text x="303.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">……</text>
+<text x="373.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">……</text>
+<text x="443.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">……</text>
+<text x="513.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">……</text>
+<text x="583.0" y="73.0" font-size="15" fill="#fff" text-anchor="middle" dominant-baseline="central">色 c</text>
+<circle cx="634.0" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="661.4" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="688.9" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="716.3" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="743.7" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="771.1" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="798.6" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="826.0" cy="73.0" r="4" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<text x="340.0" y="130.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每块是 k ∼ 2log<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan> n 个点的独立集</text>
+<text x="340.0" y="156.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">性质 (*)：剩余 ≥ m 个点时总能取出一块</text>
+<text x="730.0" y="130.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">剩下 &lt; m 个点</text>
+<text x="730.0" y="156.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每点一种新颜色</text>
+<text x="450.0" y="210.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">颜色数 ≤ n/k + m，取 m = n/(log n)² 即为 (1+o(1)) n/(2log<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan> n)</text></svg>

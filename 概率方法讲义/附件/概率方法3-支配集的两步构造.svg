@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img"><title>支配集的两步构造：随机的 X 加上没被支配的 Y</title><rect width="900" height="470" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="241.4" y1="69.4" x2="283.6" y2="80.7" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="312.0" y1="97.1" x2="342.9" y2="128.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="359.3" y1="156.4" x2="370.6" y2="198.6" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="370.6" y1="231.4" x2="359.3" y2="273.6" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="342.9" y1="302.0" x2="312.0" y2="332.9" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="283.6" y1="349.3" x2="241.4" y2="360.6" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="208.6" y1="360.6" x2="166.4" y2="349.3" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="138.0" y1="332.9" x2="107.1" y2="302.0" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="90.7" y1="273.6" x2="79.4" y2="231.4" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="79.4" y1="198.6" x2="90.7" y2="156.4" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="107.1" y1="128.0" x2="138.0" y2="97.1" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="166.4" y1="80.7" x2="208.6" y2="69.4" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="291.5" y1="330.2" x2="158.5" y2="99.8" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="340.2" y1="148.5" x2="109.8" y2="281.5" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="691.4" y1="69.4" x2="733.6" y2="80.7" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="762.0" y1="97.1" x2="792.9" y2="128.0" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="809.3" y1="156.4" x2="820.6" y2="198.6" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="820.6" y1="231.4" x2="809.3" y2="273.6" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="792.9" y1="302.0" x2="762.0" y2="332.9" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="733.6" y1="349.3" x2="691.4" y2="360.6" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="658.6" y1="360.6" x2="616.4" y2="349.3" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="588.0" y1="332.9" x2="557.1" y2="302.0" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="540.7" y1="273.6" x2="529.4" y2="231.4" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="529.4" y1="198.6" x2="540.7" y2="156.4" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="557.1" y1="128.0" x2="588.0" y2="97.1" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="616.4" y1="80.7" x2="658.6" y2="69.4" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="741.5" y1="330.2" x2="608.5" y2="99.8" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="790.2" y1="148.5" x2="559.8" y2="281.5" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<circle cx="225.0" cy="65.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="300.0" cy="85.1" r="15" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="354.9" cy="140.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="375.0" cy="215.0" r="15" fill="#fff" stroke="#e07b16" stroke-width="2" stroke-dasharray="4,3"/>
+<circle cx="354.9" cy="290.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="300.0" cy="344.9" r="15" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="225.0" cy="365.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="150.0" cy="344.9" r="15" fill="#fff" stroke="#e07b16" stroke-width="2" stroke-dasharray="4,3"/>
+<circle cx="95.1" cy="290.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="75.0" cy="215.0" r="15" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="95.1" cy="140.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="150.0" cy="85.1" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<text x="225.0" y="410.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第一步：每个点独立地以概率 p 选入 X</text>
+<circle cx="675.0" cy="65.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="750.0" cy="85.1" r="15" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="804.9" cy="140.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="825.0" cy="215.0" r="15" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="804.9" cy="290.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="750.0" cy="344.9" r="15" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="675.0" cy="365.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="600.0" cy="344.9" r="15" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="545.1" cy="290.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="525.0" cy="215.0" r="15" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="545.1" cy="140.0" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="600.0" cy="85.1" r="15" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<text x="675.0" y="410.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第二步：把没被支配的点（Y）补进来</text>
+<circle cx="150.0" cy="450.0" r="9" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<text x="166.0" y="450.0" font-size="14" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">X（随机选出）</text>
+<circle cx="298.4" cy="450.0" r="9" fill="#e8eef9" stroke="#9a9a9a" stroke-width="2"/>
+<text x="314.4" y="450.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">已被 X 支配</text>
+<circle cx="427.2" cy="450.0" r="9" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<text x="443.2" y="450.0" font-size="14" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Y：X 及其邻居之外的点</text></svg>

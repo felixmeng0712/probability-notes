@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img"><title>Z 序与 Hilbert 序都满足块性质，但只有 Hilbert 序的相邻方格共享一条边</title><rect width="900" height="560" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><polygon points="60.0,400.0 220.0,400.0 220.0,240.0 60.0,240.0" fill="#9a9a9a" fill-opacity="0.15" stroke="none"/>
+<polygon points="220.0,240.0 380.0,240.0 380.0,80.0 220.0,80.0" fill="#9a9a9a" fill-opacity="0.15" stroke="none"/>
+<line x1="60.0" y1="400.0" x2="60.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="60.0" y1="400.0" x2="380.0" y2="400.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="140.0" y1="400.0" x2="140.0" y2="80.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="60.0" y1="320.0" x2="380.0" y2="320.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="220.0" y1="400.0" x2="220.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="60.0" y1="240.0" x2="380.0" y2="240.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="300.0" y1="400.0" x2="300.0" y2="80.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="60.0" y1="160.0" x2="380.0" y2="160.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="380.0" y1="400.0" x2="380.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="60.0" y1="80.0" x2="380.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<polyline points="100.0,360.0 180.0,360.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="180.0,360.0 100.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="100.0,280.0 180.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="180.0,280.0 260.0,360.0" fill="none" stroke="#e07b16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="260.0,360.0 340.0,360.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="340.0,360.0 260.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="260.0,280.0 340.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="340.0,280.0 100.0,200.0" fill="none" stroke="#e07b16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="100.0,200.0 180.0,200.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="180.0,200.0 100.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="100.0,120.0 180.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="180.0,120.0 260.0,200.0" fill="none" stroke="#e07b16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="260.0,200.0 340.0,200.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="340.0,200.0 260.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="260.0,120.0 340.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="520.0,400.0 680.0,400.0 680.0,240.0 520.0,240.0" fill="#9a9a9a" fill-opacity="0.15" stroke="none"/>
+<polygon points="680.0,240.0 840.0,240.0 840.0,80.0 680.0,80.0" fill="#9a9a9a" fill-opacity="0.15" stroke="none"/>
+<line x1="520.0" y1="400.0" x2="520.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="520.0" y1="400.0" x2="840.0" y2="400.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="600.0" y1="400.0" x2="600.0" y2="80.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="520.0" y1="320.0" x2="840.0" y2="320.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="680.0" y1="400.0" x2="680.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="520.0" y1="240.0" x2="840.0" y2="240.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="760.0" y1="400.0" x2="760.0" y2="80.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="520.0" y1="160.0" x2="840.0" y2="160.0" stroke="#9a9a9a" stroke-width="0.8" stroke-linecap="round" opacity="1"/>
+<line x1="840.0" y1="400.0" x2="840.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<line x1="520.0" y1="80.0" x2="840.0" y2="80.0" stroke="#333" stroke-width="1.8" stroke-linecap="round" opacity="1"/>
+<polyline points="560.0,360.0 640.0,360.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="640.0,360.0 640.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="640.0,280.0 560.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="560.0,280.0 560.0,200.0" fill="none" stroke="#e07b16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="560.0,200.0 560.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="560.0,120.0 640.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="640.0,120.0 640.0,200.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="640.0,200.0 720.0,200.0" fill="none" stroke="#e07b16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="720.0,200.0 720.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="720.0,120.0 800.0,120.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="800.0,120.0 800.0,200.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="800.0,200.0 800.0,280.0" fill="none" stroke="#e07b16" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="800.0,280.0 720.0,280.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="720.0,280.0 720.0,360.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="720.0,360.0 800.0,360.0" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="60.0" y1="510.0" x2="88.0" y2="510.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="190.0" y1="510.0" x2="218.0" y2="510.0" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<circle cx="100.0" cy="360.0" r="6" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="180.0" cy="360.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="100.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="180.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="260.0" cy="360.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="340.0" cy="360.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="260.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="340.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="100.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="180.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="100.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="180.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="260.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="340.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="260.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="340.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="220.0" y="46.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Z 序：块与块之间可能跳得很远</text>
+<text x="220.0" y="434.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">16 个中心连成的路：边长平方和 = 1.875</text>
+<circle cx="560.0" cy="360.0" r="6" fill="#333" stroke="#333" stroke-width="2"/>
+<circle cx="640.0" cy="360.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="640.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="560.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="560.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="560.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="640.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="640.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="720.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="720.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="800.0" cy="120.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="800.0" cy="200.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="800.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="720.0" cy="280.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="720.0" cy="360.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<circle cx="800.0" cy="360.0" r="5" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="680.0" y="46.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Hilbert 序：相邻方格共享一条边</text>
+<text x="680.0" y="434.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">16 个中心连成的路：边长平方和 = 0.9375</text>
+<text x="96.0" y="510.0" font-size="14" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">块内的一步</text>
+<text x="226.0" y="510.0" font-size="14" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">跨块的一步</text>
+<circle cx="328.0" cy="510.0" r="6" fill="#333" stroke="#333" stroke-width="2"/>
+<text x="342.0" y="510.0" font-size="14" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">起点；灰色与白色的 2×2 区域是四个块（正方形边长记为 1）</text></svg>

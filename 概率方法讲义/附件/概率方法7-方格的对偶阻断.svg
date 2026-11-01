@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img"><title>G_{7,5} 中没有水平穿越：左列团簇 C 的边界给出从下到上的闭对偶路</title><rect width="900" height="470" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="98.0" y1="240.0" x2="152.0" y2="240.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="98.0" y1="170.0" x2="152.0" y2="170.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="168.0" y1="380.0" x2="222.0" y2="380.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="168.0" y1="240.0" x2="222.0" y2="240.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="168.0" y1="170.0" x2="222.0" y2="170.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="238.0" y1="240.0" x2="292.0" y2="240.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="308.0" y1="380.0" x2="362.0" y2="380.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="378.0" y1="380.0" x2="432.0" y2="380.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="378.0" y1="100.0" x2="432.0" y2="100.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="448.0" y1="380.0" x2="502.0" y2="380.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="448.0" y1="310.0" x2="502.0" y2="310.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="90.0" y1="372.0" x2="90.0" y2="318.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="90.0" y1="232.0" x2="90.0" y2="178.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="160.0" y1="302.0" x2="160.0" y2="248.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="160.0" y1="162.0" x2="160.0" y2="108.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="230.0" y1="232.0" x2="230.0" y2="178.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="230.0" y1="162.0" x2="230.0" y2="108.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="300.0" y1="302.0" x2="300.0" y2="248.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="300.0" y1="232.0" x2="300.0" y2="178.0" stroke="#2f6fd6" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<line x1="370.0" y1="372.0" x2="370.0" y2="318.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="370.0" y1="232.0" x2="370.0" y2="178.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="440.0" y1="302.0" x2="440.0" y2="248.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="440.0" y1="232.0" x2="440.0" y2="178.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="440.0" y1="162.0" x2="440.0" y2="108.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="510.0" y1="232.0" x2="510.0" y2="178.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="125.0" y1="414.0" x2="125.0" y2="345.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="125.0" y1="345.0" x2="195.0" y2="345.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="195.0" y1="345.0" x2="195.0" y2="275.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="195.0" y1="275.0" x2="265.0" y2="275.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="265.0" y1="275.0" x2="265.0" y2="345.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="265.0" y1="345.0" x2="335.0" y2="345.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="335.0" y1="345.0" x2="335.0" y2="275.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="335.0" y1="275.0" x2="335.0" y2="205.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="335.0" y1="205.0" x2="335.0" y2="135.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="335.0" y1="135.0" x2="265.0" y2="135.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<line x1="265.0" y1="135.0" x2="265.0" y2="66.0" stroke="#d43c3c" stroke-width="3" stroke-linecap="round" opacity="1" stroke-dasharray="8 6"/>
+<circle cx="90.0" cy="380.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="90.0" cy="310.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="90.0" cy="240.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="90.0" cy="170.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="90.0" cy="100.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="160.0" cy="380.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="160.0" cy="310.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="160.0" cy="240.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="160.0" cy="170.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="160.0" cy="100.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="230.0" cy="380.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="230.0" cy="310.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="230.0" cy="240.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="230.0" cy="170.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="230.0" cy="100.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="300.0" cy="380.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="300.0" cy="310.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="300.0" cy="240.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="300.0" cy="170.0" r="6" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="300.0" cy="100.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="370.0" cy="380.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="370.0" cy="310.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="370.0" cy="240.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="370.0" cy="170.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="370.0" cy="100.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="440.0" cy="380.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="440.0" cy="310.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="440.0" cy="240.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="440.0" cy="170.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="440.0" cy="100.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="510.0" cy="380.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="510.0" cy="310.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="510.0" cy="240.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="510.0" cy="170.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="510.0" cy="100.0" r="6" fill="#fff" stroke="#9a9a9a" stroke-width="2"/>
+<circle cx="125.0" cy="345.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="195.0" cy="345.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="195.0" cy="275.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="265.0" cy="275.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="265.0" cy="345.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="335.0" cy="345.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="335.0" cy="275.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="335.0" cy="205.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="335.0" cy="135.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<circle cx="265.0" cy="135.0" r="4" fill="#d43c3c" stroke="#d43c3c" stroke-width="2"/>
+<text x="125.0" y="434.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">β（下方外部）</text>
+<text x="265.0" y="46.0" font-size="15" fill="#d43c3c" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">τ（上方外部）</text>
+<text x="560.0" y="120.0" font-size="15" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">蓝：C（由开边连到左列的点）</text>
+<text x="560.0" y="150.0" font-size="15" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">灰：其余开边；闭边不画</text>
+<text x="560.0" y="196.0" font-size="15" fill="#d43c3c" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">红虚线：对偶路，每一步</text>
+<text x="560.0" y="222.0" font-size="15" fill="#d43c3c" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">横穿一条 ∂C 中的闭边</text>
+<text x="560.0" y="268.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每个小方块在 D* 中的度数为偶，</text>
+<text x="560.0" y="294.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">β、τ 的度数为奇，</text>
+<text x="560.0" y="320.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">所以 β 与 τ 连通</text></svg>

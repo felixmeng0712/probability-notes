@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="440" viewBox="0 0 940 440" role="img"><title>团数定理证明中的 g(i)：两端最高、中间深陷</title><rect width="940" height="440" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="100.0" y1="350.0" x2="740.0" y2="350.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="100.0" y1="350.0" x2="100.0" y2="70.0" stroke="#333" stroke-width="1.6" stroke-linecap="round" opacity="1"/>
+<line x1="137.6" y1="350.0" x2="137.6" y2="356.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="250.6" y1="350.0" x2="250.6" y2="356.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="410.6" y1="350.0" x2="410.6" y2="356.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="570.6" y1="350.0" x2="570.6" y2="356.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="702.4" y1="350.0" x2="702.4" y2="356.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="100.0" y1="70.0" x2="94.0" y2="70.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="100.0" y1="163.3" x2="94.0" y2="163.3" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="100.0" y1="256.7" x2="94.0" y2="256.7" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="100.0" y1="350.0" x2="94.0" y2="350.0" stroke="#333" stroke-width="1.4" stroke-linecap="round" opacity="1"/>
+<line x1="410.6" y1="266.0" x2="410.6" y2="88.7" stroke="#9a9a9a" stroke-width="1.3" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<polyline points="137.6,125.6 156.5,152.6 175.3,178.2 194.1,202.2 212.9,224.4 231.8,244.7 250.6,263.0 269.4,279.4 288.2,293.6 307.1,305.8 325.9,316.0 344.7,324.0 363.5,329.8 382.4,333.6 401.2,335.3" fill="none" stroke="#2f6fd6" stroke-width="2.6" stroke-linejoin="round"/>
+<polyline points="420.0,334.8 438.8,332.3 457.6,327.7 476.5,321.1 495.3,312.4 514.1,301.8 532.9,289.3 551.8,274.9 570.6,258.7 589.4,240.8 608.2,221.3 627.1,200.4 645.9,178.4 664.7,155.4 683.5,132.2 702.4,109.5" fill="none" stroke="#e07b16" stroke-width="2.6" stroke-linejoin="round"/>
+<polyline points="401.2,335.3 420.0,334.8" fill="none" stroke="#9a9a9a" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<text x="137.6" y="370.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">2</text>
+<text x="250.6" y="370.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">8</text>
+<text x="410.6" y="370.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">k/2</text>
+<text x="570.6" y="370.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">25</text>
+<text x="702.4" y="370.0" font-size="14" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">k−1</text>
+<text x="88.0" y="70.0" font-size="14" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">1</text>
+<text x="88.0" y="163.3" font-size="14" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">10⁻¹⁰</text>
+<text x="88.0" y="256.7" font-size="14" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">10⁻²⁰</text>
+<text x="88.0" y="350.0" font-size="14" fill="#333" text-anchor="end" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">10⁻³⁰</text>
+<text x="420.0" y="396.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">重叠大小 i</text>
+<text x="100.0" y="52.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">g(i)（对数纵轴）</text>
+<circle cx="137.6" cy="125.6" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="156.5" cy="152.6" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="175.3" cy="178.2" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="194.1" cy="202.2" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="212.9" cy="224.4" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="231.8" cy="244.7" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="250.6" cy="263.0" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="269.4" cy="279.4" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="288.2" cy="293.6" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="307.1" cy="305.8" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="325.9" cy="316.0" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="344.7" cy="324.0" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="363.5" cy="329.8" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="382.4" cy="333.6" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="401.2" cy="335.3" r="3.5" fill="#2f6fd6" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="420.0" cy="334.8" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="438.8" cy="332.3" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="457.6" cy="327.7" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="476.5" cy="321.1" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="495.3" cy="312.4" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="514.1" cy="301.8" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="532.9" cy="289.3" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="551.8" cy="274.9" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="570.6" cy="258.7" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="589.4" cy="240.8" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="608.2" cy="221.3" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="627.1" cy="200.4" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="645.9" cy="178.4" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="664.7" cy="155.4" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="683.5" cy="132.2" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<circle cx="702.4" cy="109.5" r="3.5" fill="#e07b16" stroke="#e07b16" stroke-width="2"/>
+<text x="260.0" y="98.0" font-size="15" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">用 (I) 估计：i ≤ k/2</text>
+<text x="570.6" y="98.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">用 (II) 估计：i > k/2</text>
+<text x="410.6" y="294.0" font-size="14" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">中间的项极小</text>
+<text x="765.0" y="120.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">n = 10⁶，k = 33</text>
+<text x="765.0" y="150.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">f(n, k) ≈ 131</text>
+<text x="765.0" y="200.0" font-size="14" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">i 小：T 几乎独立</text>
+<text x="765.0" y="226.0" font-size="14" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">于 S 出现</text>
+<text x="765.0" y="270.0" font-size="14" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">i 大：T 只是在 S</text>
+<text x="765.0" y="296.0" font-size="14" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">上换掉几个点</text></svg>

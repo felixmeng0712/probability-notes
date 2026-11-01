@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img"><title>定理 8.7 的证明：给每个 S_i 添加一个私有的新元素 u_i</title><rect width="900" height="400" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><rect x="112" y="90" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="146" y="90" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="180" y="90" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="214" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="248" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="282" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="316" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="350" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="384" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="434" y="90" width="30" height="30" rx="4" fill="#fde3c8" stroke="#e07b16" stroke-width="1.2"/>
+<rect x="468" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="502" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="536" y="90" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="112" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="146" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="180" y="134" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="214" y="134" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="248" y="134" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="282" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="316" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="350" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="384" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="434" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="468" y="134" width="30" height="30" rx="4" fill="#fde3c8" stroke="#e07b16" stroke-width="1.2"/>
+<rect x="502" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="536" y="134" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="112" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="146" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="180" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="214" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="248" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="282" y="178" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="316" y="178" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="350" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="384" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="434" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="468" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="502" y="178" width="30" height="30" rx="4" fill="#fde3c8" stroke="#e07b16" stroke-width="1.2"/>
+<rect x="536" y="178" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="112" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="146" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="180" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="214" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="248" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="282" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="316" y="222" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="350" y="222" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="384" y="222" width="30" height="30" rx="4" fill="#dbe7fb" stroke="#2f6fd6" stroke-width="1.2"/>
+<rect x="434" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="468" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="502" y="222" width="30" height="30" rx="4" fill="#fff" stroke="#e2e2e2" stroke-width="1.2"/>
+<rect x="536" y="222" width="30" height="30" rx="4" fill="#fde3c8" stroke="#e07b16" stroke-width="1.2"/>
+<line x1="424.0" y1="60.0" x2="424.0" y2="266.0" stroke="#9a9a9a" stroke-width="1.3" stroke-linecap="round" opacity="1" stroke-dasharray="4 4"/>
+<text x="127.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="161.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="195.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="229.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="263.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="297.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="331.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="365.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="399.0" y="72.0" font-size="13" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="449.0" y="72.0" font-size="13" fill="#e07b16" text-anchor="middle" dominant-baseline="central">u<tspan dy="3.9" font-size="9.4">1</tspan><tspan dy="-3.9">​</tspan></text>
+<text x="483.0" y="72.0" font-size="13" fill="#e07b16" text-anchor="middle" dominant-baseline="central">u<tspan dy="3.9" font-size="9.4">2</tspan><tspan dy="-3.9">​</tspan></text>
+<text x="517.0" y="72.0" font-size="13" fill="#e07b16" text-anchor="middle" dominant-baseline="central">u<tspan dy="3.9" font-size="9.4">3</tspan><tspan dy="-3.9">​</tspan></text>
+<text x="551.0" y="72.0" font-size="13" fill="#e07b16" text-anchor="middle" dominant-baseline="central">u<tspan dy="3.9" font-size="9.4">4</tspan><tspan dy="-3.9">​</tspan></text>
+<text x="88.0" y="107.0" font-size="16" fill="#2f6fd6" text-anchor="end" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">S′<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="88.0" y="151.0" font-size="16" fill="#2a9d4b" text-anchor="end" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">S′<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="88.0" y="195.0" font-size="16" fill="#9b3fb5" text-anchor="end" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">S′<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="88.0" y="239.0" font-size="16" fill="#8a5a2b" text-anchor="end" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">S′<tspan dy="4.8" font-size="11.5">4</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="263.0" y="290.0" font-size="15" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">原基础集 [N]</text>
+<text x="500.0" y="290.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">新元素，各以概率 q</text>
+<text x="610.0" y="110.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">u<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan> 只属于 S′<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan>：</text>
+<text x="610.0" y="136.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">S′<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan> ∩ S′<tspan dy="4.5" font-size="10.8">j</tspan><tspan dy="-4.5">​</tspan> = S<tspan dy="4.5" font-size="10.8">i</tspan><tspan dy="-4.5">​</tspan> ∩ S<tspan dy="4.5" font-size="10.8">j</tspan><tspan dy="-4.5">​</tspan>，</text>
+<text x="610.0" y="162.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">相关关系 ∼ 不变</text>
+<text x="610.0" y="212.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">μ 乘以 q（多要一个元素）</text>
+<text x="610.0" y="248.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Δ 乘以 q²（一对相关事件</text>
+<text x="610.0" y="274.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">要两个不同的新元素）</text>
+<text x="610.0" y="324.0" font-size="15" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">与 Janson II 的稀释是同一个想法</text></svg>

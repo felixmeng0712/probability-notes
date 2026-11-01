@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img"><title>Kahn 的证明：每个 b 与它的邻域 N(b) 及 d 个条件拷贝组成 K_{d,d}</title><rect width="960" height="440" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs><marker id="arr333" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs><line x1="140.0" y1="110.0" x2="360.0" y2="110.0" stroke="#2f6fd6" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="140.0" y1="230.0" x2="360.0" y2="110.0" stroke="#2f6fd6" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="140.0" y1="110.0" x2="360.0" y2="230.0" stroke="#d0d0d0" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="140.0" y1="350.0" x2="360.0" y2="230.0" stroke="#d0d0d0" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="140.0" y1="230.0" x2="360.0" y2="350.0" stroke="#d0d0d0" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="140.0" y1="350.0" x2="360.0" y2="350.0" stroke="#d0d0d0" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="430.0" y1="230.0" x2="530.0" y2="230.0" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1" marker-end="url(#arr333)"/>
+<line x1="620.0" y1="110.0" x2="820.0" y2="110.0" stroke="#2f6fd6" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="620.0" y1="110.0" x2="820.0" y2="230.0" stroke="#2f6fd6" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="620.0" y1="230.0" x2="820.0" y2="110.0" stroke="#2f6fd6" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<line x1="620.0" y1="230.0" x2="820.0" y2="230.0" stroke="#2f6fd6" stroke-width="3.4" stroke-linecap="round" opacity="1"/>
+<circle cx="140.0" cy="110.0" r="20" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="140.0" y="110.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">x<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="140.0" cy="230.0" r="20" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="140.0" y="230.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">x<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="140.0" cy="350.0" r="20" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="140.0" y="350.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">x<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="360.0" cy="110.0" r="20" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="360.0" y="110.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">y<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="360.0" cy="230.0" r="20" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="360.0" y="230.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">y<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="360.0" cy="350.0" r="20" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="360.0" y="350.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">y<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="250.0" y="40.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">G = C<tspan dy="4.8" font-size="11.5">6</tspan><tspan dy="-4.8">​</tspan>，d = 2</text>
+<text x="250.0" y="410.0" font-size="15" fill="#2f6fd6" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">N(y<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan>) = {x<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan>, x<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan>}</text>
+<circle cx="620.0" cy="110.0" r="20" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="620.0" y="110.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">x<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="620.0" cy="230.0" r="20" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="620.0" y="230.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">x<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="820.0" cy="110.0" r="20" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="820.0" y="110.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">y<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan></text>
+<circle cx="820.0" cy="230.0" r="20" fill="#fff" stroke="#e07b16" stroke-width="2"/>
+<text x="820.0" y="230.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">y<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan>'</text>
+<text x="720.0" y="40.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">局部的 K<tspan dy="4.8" font-size="11.5">2,2</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="720.0" y="300.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">y<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan>' 处的取值：给定 x<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan>, x<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan> 处的取值时，</text>
+<text x="720.0" y="326.0" font-size="15" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">y<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan> 处取值的条件独立拷贝</text>
+<text x="720.0" y="372.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">四点的取值是 K<tspan dy="4.5" font-size="10.8">2,2</tspan><tspan dy="-4.5">​</tspan> 的一个独立集，</text>
+<text x="720.0" y="400.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">熵 ≤ log i(K<tspan dy="4.5" font-size="10.8">2,2</tspan><tspan dy="-4.5">​</tspan>)</text></svg>

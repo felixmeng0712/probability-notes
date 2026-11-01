@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430" role="img"><title>五个点上三元组与补集二元组的对应</title><rect width="880" height="430" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><polygon points="220.0,85.0 329.4,164.5 287.6,293.0" fill="#9a9a9a" fill-opacity="0.3" stroke="none"/>
+<line x1="147.2" y1="276.9" x2="115.9" y2="180.6" stroke="#e07b16" stroke-width="4" stroke-linecap="round" opacity="1"/>
+<polygon points="769.4,164.5 727.6,293.0 592.4,293.0 550.6,164.5" fill="#9a9a9a" fill-opacity="0.18" stroke="none"/>
+<line x1="673.8" y1="95.0" x2="755.6" y2="154.5" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="665.3" y1="101.2" x2="722.3" y2="276.9" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="654.7" y1="101.2" x2="597.7" y2="276.9" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<line x1="646.2" y1="95.0" x2="564.4" y2="154.5" stroke="#e07b16" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<circle cx="220.0" cy="85.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="220.0" y="85.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">a</text>
+<circle cx="329.4" cy="164.5" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="329.4" y="164.5" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">b</text>
+<circle cx="287.6" cy="293.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="287.6" y="293.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">c</text>
+<circle cx="152.4" cy="293.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="152.4" y="293.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">d</text>
+<circle cx="110.6" cy="164.5" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="110.6" y="164.5" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">e</text>
+<text x="220.0" y="375.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">H 的边 {a, b, c}（灰）↔ G 的边 de（橙）</text>
+<circle cx="660.0" cy="85.0" r="17" fill="#fde3c8" stroke="#e07b16" stroke-width="2"/>
+<text x="660.0" y="85.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">x</text>
+<circle cx="769.4" cy="164.5" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="769.4" y="164.5" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">a</text>
+<circle cx="727.6" cy="293.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="727.6" y="293.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">b</text>
+<circle cx="592.4" cy="293.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="592.4" y="293.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">c</text>
+<circle cx="550.6" cy="164.5" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="550.6" y="164.5" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">d</text>
+<text x="660.0" y="375.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">{a, b, c, d} 的 4 个三元组 ↔ x 的 4 条边</text>
+<text x="660.0" y="405.0" font-size="16" fill="#e07b16" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">四面体 ⇔ x 在 G 中度为 4</text>
+<text x="220.0" y="405.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">三元组 ↔ 它在 5 点中的补集</text></svg>

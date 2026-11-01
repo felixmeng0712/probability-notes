@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" role="img"><title>逐次对半分：每层度数减半，误差逐层累加</title><rect width="920" height="430" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="256.7" y1="65.6" x2="183.3" y2="124.4" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="283.3" y1="65.6" x2="356.7" y2="124.4" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="161.0" y1="149.4" x2="129.0" y2="200.6" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="179.0" y1="149.4" x2="211.0" y2="200.6" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="361.0" y1="149.4" x2="329.0" y2="200.6" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="379.0" y1="149.4" x2="411.0" y2="200.6" stroke="#333" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<line x1="113.8" y1="230.8" x2="81.2" y2="314.2" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="121.6" y1="231.9" x2="129.4" y2="313.1" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="215.3" y1="231.3" x2="191.7" y2="313.7" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="223.3" y1="231.7" x2="239.7" y2="313.3" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="316.9" y1="231.7" x2="302.1" y2="313.3" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="324.9" y1="231.3" x2="350.1" y2="313.7" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="418.7" y1="231.9" x2="412.3" y2="313.1" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<line x1="426.4" y1="230.7" x2="460.6" y2="314.3" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" opacity="1" stroke-dasharray="5 5"/>
+<circle cx="270.0" cy="55.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="270.0" y="55.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">G</text>
+<circle cx="170.0" cy="135.0" r="17" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="370.0" cy="135.0" r="17" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="120.0" cy="215.0" r="17" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="220.0" cy="215.0" r="17" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="320.0" cy="215.0" r="17" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="420.0" cy="215.0" r="17" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<circle cx="75.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="75.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="131.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="131.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="187.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="187.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="243.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="243.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="299.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="299.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="355.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="355.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="411.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="411.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<circle cx="467.0" cy="330.0" r="17" fill="#e5f4ea" stroke="#2a9d4b" stroke-width="2"/>
+<text x="467.0" y="330.0" font-size="12" fill="#2a9d4b" text-anchor="middle" dominant-baseline="central">圈</text>
+<text x="520.0" y="268.0" font-size="14" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">⋯ 虚线表示中间若干层从略</text>
+<text x="520.0" y="55.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">D<tspan dy="4.5" font-size="10.8">0</tspan><tspan dy="-4.5">​</tspan> = k，η<tspan dy="4.5" font-size="10.8">0</tspan><tspan dy="-4.5">​</tspan> = 0</text>
+<text x="520.0" y="135.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">D<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan> = k/2，η<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan> = η<tspan dy="4.5" font-size="10.8">0</tspan><tspan dy="-4.5">​</tspan> + 2√(3 ln D<tspan dy="4.5" font-size="10.8">0</tspan><tspan dy="-4.5">​</tspan> / D<tspan dy="4.5" font-size="10.8">0</tspan><tspan dy="-4.5">​</tspan>)</text>
+<text x="520.0" y="215.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">D<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan> = k/4，η<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan> = η<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan> + 2√(3 ln D<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan> / D<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan>)</text>
+<text x="520.0" y="318.0" font-size="15" fill="#2a9d4b" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">第 t 层：部分数翻倍了 t 次，彼此没有边，</text>
+<text x="520.0" y="343.0" font-size="15" fill="#2a9d4b" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每点出度 ≥ (1 − η<tspan dy="4.5" font-size="10.8">t</tspan><tspan dy="-4.5">​</tspan>) D<tspan dy="4.5" font-size="10.8">t</tspan><tspan dy="-4.5">​</tspan> ≥ D*/4 > 0</text>
+<text x="460.0" y="400.0" font-size="15" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">误差项随 D<tspan dy="4.5" font-size="10.8">j</tspan><tspan dy="-4.5">​</tspan> 增大而变小，η<tspan dy="4.5" font-size="10.8">j</tspan><tspan dy="-4.5">​</tspan> 之和是收敛级数，总和 ≤ 1/2</text></svg>

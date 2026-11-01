@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img"><title>三个六边形围着顶点 c：星 cu_1, cu_2, cu_3 加上三条长为 4 的路</title><rect width="900" height="600" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><line x1="392.5" y1="191.7" x2="330.0" y2="83.5" stroke="#e07b16" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="83.5" x2="205.0" y2="83.5" stroke="#e07b16" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="205.0" y1="83.5" x2="142.5" y2="191.7" stroke="#e07b16" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="142.5" y1="191.7" x2="205.0" y2="300.0" stroke="#e07b16" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="205.0" y1="300.0" x2="142.5" y2="408.3" stroke="#2a9d4b" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="142.5" y1="408.3" x2="205.0" y2="516.5" stroke="#2a9d4b" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="205.0" y1="516.5" x2="330.0" y2="516.5" stroke="#2a9d4b" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="516.5" x2="392.5" y2="408.3" stroke="#2a9d4b" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="392.5" y1="408.3" x2="517.5" y2="408.3" stroke="#9b3fb5" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="517.5" y1="408.3" x2="580.0" y2="300.0" stroke="#9b3fb5" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="580.0" y1="300.0" x2="517.5" y2="191.7" stroke="#9b3fb5" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="517.5" y1="191.7" x2="392.5" y2="191.7" stroke="#9b3fb5" stroke-width="3.6" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="300.0" x2="392.5" y2="191.7" stroke="#2f6fd6" stroke-width="4.2" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="300.0" x2="205.0" y2="300.0" stroke="#2f6fd6" stroke-width="4.2" stroke-linecap="round" opacity="1"/>
+<line x1="330.0" y1="300.0" x2="392.5" y2="408.3" stroke="#2f6fd6" stroke-width="4.2" stroke-linecap="round" opacity="1"/>
+<circle cx="330.0" cy="300.0" r="19" fill="#fff" stroke="#d43c3c" stroke-width="2"/>
+<text x="330.0" y="300.0" font-size="17" fill="#d43c3c" text-anchor="middle" dominant-baseline="central">c</text>
+<circle cx="392.5" cy="191.7" r="19" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="392.5" y="191.7" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">u<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="205.0" cy="300.0" r="19" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="205.0" y="300.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">u<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="392.5" cy="408.3" r="19" fill="#fff" stroke="#2f6fd6" stroke-width="2"/>
+<text x="392.5" y="408.3" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">u<tspan dy="4.5" font-size="10.8">3</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="330.0" cy="83.5" r="19" fill="#fff" stroke="#e07b16" stroke-width="2"/>
+<text x="330.0" y="83.5" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">p<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="205.0" cy="83.5" r="19" fill="#fff" stroke="#e07b16" stroke-width="2"/>
+<text x="205.0" y="83.5" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">q<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="142.5" cy="191.7" r="19" fill="#fff" stroke="#e07b16" stroke-width="2"/>
+<text x="142.5" y="191.7" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">r<tspan dy="4.5" font-size="10.8">1</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="142.5" cy="408.3" r="19" fill="#fff" stroke="#2a9d4b" stroke-width="2"/>
+<text x="142.5" y="408.3" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">p<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="205.0" cy="516.5" r="19" fill="#fff" stroke="#2a9d4b" stroke-width="2"/>
+<text x="205.0" y="516.5" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">q<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="330.0" cy="516.5" r="19" fill="#fff" stroke="#2a9d4b" stroke-width="2"/>
+<text x="330.0" y="516.5" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">r<tspan dy="4.5" font-size="10.8">2</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="517.5" cy="408.3" r="19" fill="#fff" stroke="#9b3fb5" stroke-width="2"/>
+<text x="517.5" y="408.3" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">p<tspan dy="4.5" font-size="10.8">3</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="580.0" cy="300.0" r="19" fill="#fff" stroke="#9b3fb5" stroke-width="2"/>
+<text x="580.0" y="300.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">q<tspan dy="4.5" font-size="10.8">3</tspan><tspan dy="-4.5">​</tspan></text>
+<circle cx="517.5" cy="191.7" r="19" fill="#fff" stroke="#9b3fb5" stroke-width="2"/>
+<text x="517.5" y="191.7" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">r<tspan dy="4.5" font-size="10.8">3</tspan><tspan dy="-4.5">​</tspan></text>
+<text x="640.0" y="200.0" font-size="16" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">蓝：星 cu<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan>, cu<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan>, cu<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="640.0" y="236.0" font-size="16" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">橙：u<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan> p<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan> q<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan> r<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan> u<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="640.0" y="272.0" font-size="16" fill="#2a9d4b" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">绿：u<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan> p<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan> q<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan> r<tspan dy="4.8" font-size="11.5">2</tspan><tspan dy="-4.8">​</tspan> u<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="640.0" y="308.0" font-size="16" fill="#9b3fb5" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">紫：u<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan> p<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan> q<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan> r<tspan dy="4.8" font-size="11.5">3</tspan><tspan dy="-4.8">​</tspan> u<tspan dy="4.8" font-size="11.5">1</tspan><tspan dy="-4.8">​</tspan></text>
+<text x="640.0" y="344.0" font-size="16" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">每个六边形 = 星的两条边</text>
+<text x="640.0" y="380.0" font-size="16" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">+ 一条长为 4 的路</text></svg>

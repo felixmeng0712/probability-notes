@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img"><title>沿标号加一的边走，得到长度被 k 整除的圈</title><rect width="900" height="440" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs><marker id="arr2f6fd6" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f6fd6"/></marker><marker id="arr9a9a9a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9a9a9a"/></marker></defs><line x1="287.3" y1="85.0" x2="380.9" y2="139.0" stroke="#2f6fd6" stroke-width="3.2" stroke-linecap="round" opacity="1" marker-end="url(#arr2f6fd6)"/>
+<line x1="399.9" y1="170.0" x2="399.9" y2="278.0" stroke="#2f6fd6" stroke-width="3.2" stroke-linecap="round" opacity="1" marker-end="url(#arr2f6fd6)"/>
+<line x1="382.6" y1="310.0" x2="289.1" y2="364.0" stroke="#2f6fd6" stroke-width="3.2" stroke-linecap="round" opacity="1" marker-end="url(#arr2f6fd6)"/>
+<line x1="252.7" y1="365.0" x2="159.1" y2="311.0" stroke="#2f6fd6" stroke-width="3.2" stroke-linecap="round" opacity="1" marker-end="url(#arr2f6fd6)"/>
+<line x1="140.1" y1="280.0" x2="140.1" y2="172.0" stroke="#2f6fd6" stroke-width="3.2" stroke-linecap="round" opacity="1" marker-end="url(#arr2f6fd6)"/>
+<line x1="157.4" y1="140.0" x2="250.9" y2="86.0" stroke="#2f6fd6" stroke-width="3.2" stroke-linecap="round" opacity="1" marker-end="url(#arr2f6fd6)"/>
+<line x1="250.1" y1="73.4" x2="101.9" y2="61.7" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1" marker-end="url(#arr9a9a9a)"/>
+<line x1="289.8" y1="72.4" x2="438.2" y2="52.9" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1" marker-end="url(#arr9a9a9a)"/>
+<circle cx="80.0" cy="60.0" r="20" fill="#f3f3f3" stroke="#9a9a9a" stroke-width="2"/>
+<text x="80.0" y="60.0" font-size="16" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">0</text>
+<circle cx="460.0" cy="50.0" r="20" fill="#f3f3f3" stroke="#9a9a9a" stroke-width="2"/>
+<text x="460.0" y="50.0" font-size="16" fill="#9a9a9a" text-anchor="middle" dominant-baseline="central">2</text>
+<circle cx="270.0" cy="75.0" r="20" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<text x="270.0" y="75.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">0</text>
+<circle cx="399.9" cy="150.0" r="20" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<text x="399.9" y="150.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">1</text>
+<circle cx="399.9" cy="300.0" r="20" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<text x="399.9" y="300.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">2</text>
+<circle cx="270.0" cy="375.0" r="20" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<text x="270.0" y="375.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">0</text>
+<circle cx="140.1" cy="300.0" r="20" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<text x="140.1" y="300.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">1</text>
+<circle cx="140.1" cy="150.0" r="20" fill="#e3edfb" stroke="#2f6fd6" stroke-width="2"/>
+<text x="140.1" y="150.0" font-size="16" fill="#333" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="270.0" y="37.0" font-size="17" fill="#333" text-anchor="middle" dominant-baseline="central" font-style="italic" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">v</text>
+<text x="540.0" y="110.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">k = 3，圈内数字是标号 x<tspan dy="4.5" font-size="10.8">v</tspan><tspan dy="-4.5">​</tspan> ∈ ℤ/3</text>
+<text x="540.0" y="160.0" font-size="15" fill="#2f6fd6" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">蓝边：标号恰好加 1</text>
+<text x="540.0" y="210.0" font-size="15" fill="#9a9a9a" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">灰边：v 的其他出邻居</text>
+<text x="540.0" y="270.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">若每个点都有“加 1”的出边，</text>
+<text x="540.0" y="295.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">一直走下去必回到走过的点；</text>
+<text x="540.0" y="320.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">绕圈一周标号回到原值，</text>
+<text x="540.0" y="345.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">所以圈长是 k 的倍数</text></svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420" role="img"><title>Fano 平面：较少的颜色类 B={1,2,7} 碰不到圆这条线</title><rect width="820" height="420" fill="#ffffff"/><style>text{font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",Arial,sans-serif}</style><defs></defs><circle cx="250.0" cy="261.9" r="98.14954576223637" stroke="#d43c3c" stroke-width="3.5" fill="none"/>
+<line x1="241.5" y1="80.3" x2="173.5" y2="198.1" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="156.5" y1="227.5" x2="88.5" y2="345.3" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="97.0" y1="360.0" x2="233.0" y2="360.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="267.0" y1="360.0" x2="403.0" y2="360.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="258.5" y1="80.3" x2="326.5" y2="198.1" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="343.5" y1="227.5" x2="411.5" y2="345.3" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="250.0" y1="82.6" x2="250.0" y2="244.9" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="250.0" y1="278.9" x2="250.0" y2="343.0" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="94.7" y1="351.5" x2="235.3" y2="270.4" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="264.7" y1="253.4" x2="320.3" y2="221.3" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="405.3" y1="351.5" x2="264.7" y2="270.4" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<line x1="235.3" y1="253.4" x2="179.7" y2="221.3" stroke="#9a9a9a" stroke-width="2.2" stroke-linecap="round" opacity="1"/>
+<circle cx="250.0" cy="65.6" r="17" fill="#fde3c8" stroke="#e07b16" stroke-width="2"/>
+<text x="250.0" y="65.6" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">1</text>
+<circle cx="80.0" cy="360.0" r="17" fill="#fde3c8" stroke="#e07b16" stroke-width="2"/>
+<text x="80.0" y="360.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">2</text>
+<circle cx="420.0" cy="360.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="420.0" y="360.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">3</text>
+<circle cx="165.0" cy="212.8" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="165.0" y="212.8" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">4</text>
+<circle cx="250.0" cy="360.0" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="250.0" y="360.0" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">5</text>
+<circle cx="335.0" cy="212.8" r="17" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="335.0" y="212.8" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">6</text>
+<circle cx="250.0" cy="261.9" r="17" fill="#fde3c8" stroke="#e07b16" stroke-width="2"/>
+<text x="250.0" y="261.9" font-size="15" fill="#333" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="500.0" y="80.0" font-size="16" fill="#333" text-anchor="start" dominant-baseline="central" font-weight="bold" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">7 条线：</text>
+<text x="500.0" y="112.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">三条边 {1,4,2}，{2,5,3}，{1,6,3}</text>
+<text x="500.0" y="140.0" font-size="15" fill="#333" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">三条中线 {1,7,5}，{2,7,6}，{3,7,4}</text>
+<text x="500.0" y="168.0" font-size="15" fill="#d43c3c" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">圆 {4,5,6}</text>
+<text x="500.0" y="230.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">橙色 B = {1,2,7} 不是一条线，</text>
+<text x="500.0" y="258.0" font-size="15" fill="#e07b16" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">碰到 9 − 3 = 6 条线；</text>
+<text x="500.0" y="286.0" font-size="15" fill="#d43c3c" text-anchor="start" dominant-baseline="central" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">红色的圆 {4,5,6} 全在另一色中</text></svg>
